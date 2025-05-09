@@ -1,1 +1,5 @@
-ECHO is on.
+opencv-python
+mediapipe
+numpy
+tensorflow
+streamlit

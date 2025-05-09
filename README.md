@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a **Hand Gesture Controlled Rock-Paper-Scissors Game** where players can interact with the game using hand gestures detected via a webcam. The game recognizes three hand gestures:
+This is a **Hand Gesture Controlled Rock-Paper-Scissors Game using Deep Learning** where players can interact with the game using hand gestures detected via a webcam. The game recognizes three hand gestures:
 
 - ✊ Rock  
 - 🖐️ Paper  
